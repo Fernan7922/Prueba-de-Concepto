@@ -6,5 +6,11 @@ El procedimiento es:
 4.	Presionar botón Share + PS para entrar en modo emparejamiento.
 Una vez hecho esto, la conexión se realiza automáticamente en futuras ocasiones.
 
-Para cambiar la MAC del control se usó: sixasispairtool
+Para cambiar la MAC del control se usó: sixasispairtool: https://sixaxispairtool.software.informer.com/Descargar-gratis/
+
+Para ver la MAC del esp32,usar el código verMAC.ino.
+Ojo ambas MAC deben coincidir, para que se puedan emparejar.
+
+
+
 
