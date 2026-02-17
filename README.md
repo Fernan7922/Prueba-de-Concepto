@@ -1,4 +1,4 @@
-Para que el control PS4 pueda conectarse correctamente, es necesario configurar la dirección MAC del ESP32.
+Para que el control PS4 pueda conectarse correctamente, es necesario configurar la dirección MAC del mando de PS4.
 El procedimiento es:
 1.	Ejecutar el programa que muestra la MAC del ESP32 en el monitor serial.
 2.	Copiar esa dirección.
